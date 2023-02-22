@@ -7,3 +7,6 @@ Eğer proje hata veriyorsa discord üzerinden bana ulaşın.
 ([Discord Hesabım](https://discordapp.com/users/1062489298244476939))
 Zamanında github üzerinden bulup editlemiştim.
 Yakında güzel self tokenli url spammer atarım.
+Başlatmayı bilmeyen salaklar için
+npm install
+node 400.js
