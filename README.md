@@ -4,7 +4,7 @@ Onu kendinize göre değiştirebilirsiniz.
 Ama muhtemelen sunucunuza rate limit atar.
 Eğer gerçekten bir sik bilmeyip url geçirmek istiyorsanız kullanın.
 Eğer proje hata veriyorsa discord üzerinden bana ulaşın.
-[Discord Hesabım](https://discordapp.com/users/1062489298244476939))
+[Justicee#1999](https://discordapp.com/users/1013610040692834336)
 Zamanında github üzerinden bulup editlemiştim.
 Yakında güzel self tokenli url spammer atarım.
 Başlatmayı bilmeyen salaklar için
