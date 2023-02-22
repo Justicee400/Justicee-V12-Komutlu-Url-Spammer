@@ -1,0 +1,14 @@
+{
+  "main": "astpod.js",
+  "scripts": {
+    "start": "node 400.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "node-fetch": "^2.6.1",
+    "moment-timezone": "^0.5.33"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
