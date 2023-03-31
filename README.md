@@ -8,5 +8,9 @@ Eğer proje hata veriyorsa discord üzerinden bana ulaşın.
 Zamanında github üzerinden bulup editlemiştim.
 Yakında güzel self tokenli url spammer atarım.
 Başlatmayı bilmeyen salaklar için
+
+
 npm install
+
+
 node 400.js
